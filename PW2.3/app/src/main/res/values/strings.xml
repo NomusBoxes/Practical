@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Много разметок одной активности</string>
+    <string name="vertical" translatable="false">Вертикальное положение экрана</string>
+    <string name="horizontal" translatable="false">
+        Горизонтальное положение экрана
+    </string>
+    <string name="night" tools:ignore="MissingTranslation">
+        Ночной режим
+    </string>
+</resources>
