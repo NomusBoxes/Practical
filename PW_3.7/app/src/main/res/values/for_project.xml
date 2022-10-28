@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="checkbox">
+        <item>Луна и звёзды ночью</item>
+        <item>Солнце днём</item>
+    </string-array>
+</resources>
