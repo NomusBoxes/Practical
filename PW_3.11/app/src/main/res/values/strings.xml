@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">3.11_practical_work2</string>
+    <string name="tab_text_1">Чаты</string>
+    <string name="tab_text_2">Сообщения</string>
+    <string name="tab_text_3">Контакты</string>
+    <string name="tab_text_4">Галерея</string>
+    <string name="tab_text_5">Помощь</string>
+    <string name="tab_text_6">УУУУУУУУУУУУУУУУУУУУ</string>
+
+</resources>
